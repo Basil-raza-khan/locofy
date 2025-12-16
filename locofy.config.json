@@ -1,0 +1,18 @@
+{
+  components [
+    .srccomponentsArrowRightIcon.tsx,
+    .srccomponentsDestinationCard.tsx,
+    .srccomponentsFlightMainContainer.tsx,
+    .srccomponentsFooter.tsx,
+    .srccomponentsHeader.tsx,
+    .srccomponentsHolidayCard.tsx,
+    .srccomponentsHotelCard.tsx,
+    .srccomponentsNavigationLink.tsx,
+    .srccomponentsTripItem.tsx,
+    .srccomponentsSubscribeSection.tsx,
+    .srccomponentsButton.tsx
+  ],
+  wrapper .srcWrapper.tsx,
+  webpack .webpack.locofy.js,
+  publicPath .publicassets
+}
